@@ -1,1 +1,4 @@
-Hm
+- [x] Data init
+- [x] Data Exploration
+- [x] Data Cleaning - Missing Value
+- [ ] Visualization - Outliers
