@@ -1,7 +1,8 @@
 - [x] Data init
 - [x] Data Exploration
 - [x] Data Cleaning - Missing Value
-- [x] Visualization - Outliers
+- [x] Visualization untuk melihat Outliers
+- [x] Korelasi Atribut
 - [ ] Split Data Training & Testing
 - [ ] Multivariable Regression
 - [ ] Model Fit menggunakan R-Squared
