@@ -1,4 +1,8 @@
 - [x] Data init
 - [x] Data Exploration
 - [x] Data Cleaning - Missing Value
-- [ ] Visualization - Outliers
+- [x] Visualization - Outliers
+- [ ] Split Data Training & Testing
+- [ ] Multivariable Regression
+- [ ] Model Fit menggunakan R-Squared
+- [ ] Evaluasi Model
